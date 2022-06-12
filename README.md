@@ -1,10 +1,6 @@
-# The Carpentries Workbench Template Markdown Lesson
+# The Awesome Lesson
 
-This lesson is a template lesson that uses [The Carpentries Workbench][workbench].
+Short description of the lesson :)
 
-To get started using this template, visit https://github.com/carpentries/workbench-template-md/generate
-and follow the instructions.
-
-If you have any questions, contact [@zkamvar](https://github.com/zkamvar)
-
-[workbench]: https://carpentries.github.io/sandpaper-docs/
+Maintainers:
+- Mateusz Kuzak 
